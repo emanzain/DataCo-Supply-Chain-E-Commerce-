@@ -28,23 +28,6 @@ Interactive Power BI dashboard visualizing the end-to-end supply chain workflow 
 
 ![Screenshot 2025-04-16 180137](https://github.com/user-attachments/assets/1875db3c-842b-4866-be0b-7c47947380f9)
 
-## Dashboard Features
-
-# 1. Process Flow Visualization
-
- 4 Key Stages with KPI summaries:
-# Order
-  Total Orders: 66K
-  Avg. Processing Time: 2.3 days
-# Customer (B2B)
-  Segments: Consumer (55%), Corporate (30%), Home Office (15%)
-# Market
-  Top Market: USCA (38% of orders)
-# Shipping
-  On-Time Delivery: 89%
-# 2. Interactive Bookmarks
-  One-click navigation between stages:
-[Order Stage] ➔ [Customer Stage] ➔ [Market Stage] ➔ [Shipping Stage]
 
 # Key Features:
 
@@ -86,7 +69,8 @@ Use discount parameter to optimize profitability
 
 Power BI Dashboard for analyzing order data across markets, departments, and years.
 
-![Screenshot 2025-04-16 181125](https://github.com/user-attachments/assets/dabea509-91ce-44e2-89f0-94725ca74e13)
+![Screenshot 2025-04-16 180306](https://github.com/user-attachments/assets/3d092239-28de-43b3-b7c3-79557b2fcfe9)
+
 
 # Features
 
